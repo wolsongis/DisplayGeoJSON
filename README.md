@@ -3,6 +3,9 @@
 After using the quickstart guide from leaflet (linked below), the new task is to update that code to display a GeoJSON file. 
 https://leafletjs.com/examples/quick-start/ 
 
+This is the guide I used for displaying a GeoJSON
+https://leafletjs.com/examples/geojson/ 
+
 You can view the webpage at https://wolsongis.github.io/DisplayGeoJSON 
 
 Questions or Issues
